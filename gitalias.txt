@@ -80,6 +80,9 @@
   r = remote
   s = status
   w = whatchanged
+  sw = switch
+  re = restore
+
 
   ##
   # Short aliases for our frequent commands.
